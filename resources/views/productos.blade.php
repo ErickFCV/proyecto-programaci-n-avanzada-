@@ -28,7 +28,6 @@
 
         <hr>
 
-        {{-- Tarea 5: Mostrar promedio sin decimales [cite: 38, 40, 42] --}}
         <div class="alert alert-info">
             <strong>Precio promedio:</strong> Bs. {{ number_format($precioPromedio, 0) }}
         </div>
