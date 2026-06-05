@@ -1,3 +1,6 @@
 *
-!data/
-!.gitignore
+!prueba.txt
+!README.md
+!*.php
+!composer.json
+!artisan
